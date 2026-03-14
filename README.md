@@ -2,7 +2,7 @@
 
 > *Un'esperienza interattiva ad alta fedeltà per l'educazione legale.*
 
-Questa applicazione trasforma la tradizionale lezione di diritto del lavoro in un'esperienza visiva e immersiva. Navigando in un ambiente 3D fluido, l'utente esplora i doveri, i diritti e le tutele del lavoratore nel sistema giuridico italiano, dalla Costituzione fino alle sfide digitali moderne (Smart Working e Social Media).
+**🌐 [Visualizza l'App Live](https://Ironman1121.github.io/presentazione-diritto/)**
 
 ---
 
